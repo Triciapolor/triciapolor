@@ -5,4 +5,4 @@ Hello welcome to my coding playground 😄
 
 Although I maintain a ket focus on SQL and Python as oart of my role, here are the full range of langauges I know 😊
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,python,r)](https://skillicons.dev)
